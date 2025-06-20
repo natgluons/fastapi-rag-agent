@@ -1,0 +1,1 @@
+Real-time updates in GraphQL are supported via subscriptions, enabling live data streaming for dashboards and collaborative tools.

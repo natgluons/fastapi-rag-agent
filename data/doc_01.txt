@@ -1,0 +1,1 @@
+GraphQL allows clients to request exactly the data they need, reducing over-fetching and under-fetching issues common in REST APIs.

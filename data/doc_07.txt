@@ -1,0 +1,1 @@
+GraphQL supports complex queries with nested relationships, ideal for SaaS platforms that expose rich datasets to clients.

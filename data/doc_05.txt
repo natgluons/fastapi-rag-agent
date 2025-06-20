@@ -1,0 +1,2 @@
+GraphQL enables frontend teams to iterate rapidly by decoupling backend and frontend development, enhancing overall agility.
+

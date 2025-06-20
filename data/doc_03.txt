@@ -1,0 +1,1 @@
+GraphQL's strong typing system helps catch errors early during development and improves API documentation for enterprise teams.

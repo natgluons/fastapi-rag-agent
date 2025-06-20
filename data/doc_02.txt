@@ -1,0 +1,1 @@
+Enterprise SaaS applications use GraphQL to unify multiple microservices under a single API endpoint, simplifying client-side development.

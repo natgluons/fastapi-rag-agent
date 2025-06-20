@@ -1,0 +1,1 @@
+GraphQL facilitates API versioning without breaking clients by allowing schema evolution and deprecating fields gracefully.

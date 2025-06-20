@@ -1,0 +1,1 @@
+Security in GraphQL APIs is managed through authentication, authorization, and query complexity analysis to prevent abuse.
